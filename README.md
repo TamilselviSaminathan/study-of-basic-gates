@@ -71,7 +71,6 @@ Gates
 
  Developed by:TAMILSELVI.S
  RegisterNumber: : 25018014
- <img width="354" height="309" alt="image" src="https://github.com/user-attachments/assets/c7e080a7-743c-445a-b587-010bba5c83a7" />
 
 **Logic symbol & Truthtable**
 <img width="354" height="309" alt="image" src="https://github.com/user-attachments/assets/c7e080a7-743c-445a-b587-010bba5c83a7" />
